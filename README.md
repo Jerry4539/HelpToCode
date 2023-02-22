@@ -2,7 +2,7 @@
 
 This project HelpToCode is Ai Based which help you to generate response my taking Query. Interface was build using with Node.js and Express that uses [OpenAI's Service](https://beta.openai.com/docs/guides/) to generate Response . 
 
- <a href="https://dull-erin-gharial-hem.cyclic.app/"></a>
+ <a href="https://tender-foal-headscarf.cyclic.app/"></a>
 
 <img src="public/screen.png" width="100%" height="50%">
 
