@@ -41,7 +41,7 @@ export default function Home() {
       <main className={styles.main}>
         <img src="/jerry.png" className={styles.icon} />
         <h3 className={styles.h3}>Test the Ai Bot</h3>
-        <b><span style="color: darkred;">I Haved Stop this project for devlopment purpose..</span></b>
+        {/* <b><span style={{color: 'darkred'}}>I have stopped this project for development purposes..</span></b> */}
         <form onSubmit={onSubmit}>
           <input
             type="text"
@@ -66,7 +66,7 @@ export default function Home() {
         </div>
       </main>
       <footer className={styles.footer}>
-        Made by <a href="https://github.com/Jerry4539/">Jerry4539</a> && <a href="wwww.jerry4539.online"> Akcyberscan</a>
+        Made by <a href="https://github.com/Jerry4539/">Jerry4539</a> && <a href="https://jerry4539.online"> Akcyberscan</a>
       </footer>
     </div>
   );
