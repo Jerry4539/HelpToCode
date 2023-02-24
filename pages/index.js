@@ -67,8 +67,8 @@ export default function Home() {
       </main>
       <footer className={styles.footer}>
         Made by <a href="https://github.com/Jerry4539/">Jerry4539</a> && <a href="https://jerry4539.online"> Akcyberscan</a>
+  <small><img src="https://profile-counter.glitch.me/HelpToCodeMainPage/count.svg" alt="Visitors"/></small>
       </footer>
-  <img src="https://profile-counter.glitch.me/HelpToCodeMainPage/count.svg" alt="Visitors"/>
     </div>
   );
 }
